@@ -36,3 +36,9 @@ nav ul {
     height: 200px;
     object-fit: cover;
 }
+.about {
+    background-color: rosybrown ;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+}
