@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: aqua;
+    background-color: darkcyan;
     color: white;
     padding: 4rem 1rem;
 }
@@ -10,16 +10,16 @@ nav ul {
     flex-direction: column;
 }
 .hero {
-            background-color: burlywood ;
-            color: white;
-            text-align: center;
-            padding: 4rem 1rem;
+    background-color: burlywood ;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
         }
 .services {
-            background-color: darkgoldenrod ;
-            color: white;
-            text-align: center;
-            padding: 4rem 1rem;
+    background-color: darkgoldenrod ;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
 }
 .strenght-image {
     width: 300px;
@@ -48,4 +48,13 @@ nav ul {
     text-align: center;
     padding: 4rem 1rem;
 }
-
+.dynamic-footer {
+    background-color: darkcyan ;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;   
+}
+.social-links {
+    display: flex;
+    flex-direction: column;
+}
