@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    background-color: aqua;
+    color: white;
+    padding: 4rem 1rem;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+.hero {
+            background-color: burlywood ;
+            color: white;
+            text-align: center;
+            padding: 4rem 1rem;
+        }
