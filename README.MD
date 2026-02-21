@@ -13,3 +13,8 @@ Communicate core fitness programs
 Encourage membership sign-ups
 # screenshot
 ![main navigation Section](navigation-screenshot.jpg)
+![hero Section](hero-screenshot.jpg)
+![service Section](service-screenshot.jpg)
+![about_contact Section](about_contact-screenshot.jpg)
+
+
